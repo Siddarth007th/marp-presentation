@@ -5,7 +5,7 @@ footer: "24f2008507@ds.study.iitm.ac.in"
 theme: custom
 ---
 
-<!-- Custom theme -->
+<!-- custom theme -->
 <style>
 section {
   font-family: Arial, sans-serif;
@@ -24,27 +24,20 @@ h1 {
 # Product Documentation  
 ### Author: **24f2008507@ds.study.iitm.ac.in**
 
-This presentation is built using **Marp** and demonstrates documentation best practices.
-
 ---
 
-# Custom Theme & Styling
-
+# Custom Theme Demonstration  
 <div class="custom-box">
-This slide uses a custom CSS class inside the Marp file.
+This slide uses custom CSS styling.
 </div>
 
 ---
 
-# Algorithmic Complexity (Math)
-
-Example recurrence:
+# Algorithmic Complexity  
 
 \[
 T(n) = 2T\left(\frac{n}{2}\right) + n
 \]
-
-Master Theorem gives:
 
 \[
 T(n) = O(n \log n)
@@ -53,8 +46,9 @@ T(n) = O(n \log n)
 ---
 
 <!-- _backgroundImage: "https://images.unsplash.com/photo-1527689368864-3a821dbccc34" -->
+
 # Background Image Slide  
-This slide includes a background image as required.
+This slide includes a background image.
 
 ---
 
@@ -67,6 +61,6 @@ This slide includes a background image as required.
 
 ---
 
-# Contact
-
+# Contact  
 Email: **24f2008507@ds.study.iitm.ac.in**
+
