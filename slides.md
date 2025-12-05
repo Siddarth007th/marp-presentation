@@ -24,21 +24,27 @@ h1 {
 # Product Documentation  
 ### Author: **24f2008507@ds.study.iitm.ac.in**
 
+This Marp deck demonstrates version-controlled product documentation.
+
 ---
 
 # Custom Theme Demonstration  
 
 <div class="custom-box">
-This slide uses custom CSS styling.
+This slide uses a custom CSS class and a custom theme.
 </div>
 
 ---
 
 # Algorithmic Complexity  
 
+Example recurrence:
+
 \[
 T(n) = 2T\left(\frac{n}{2}\right) + n
 \]
+
+By the Master Theorem:
 
 \[
 T(n) = O(n \log n)
@@ -46,11 +52,14 @@ T(n) = O(n \log n)
 
 ---
 
-<!-- _backgroundImage: "https://images.unsplash.com/photo-1527689368864-3a821dbccc34" -->
+<!--
+backgroundImage: url("https://images.unsplash.com/photo-1527689368864-3a821dbccc34")
+backgroundSize: cover
+-->
 
 # Background Image Slide  
 
-This slide includes a background image.
+This slide includes a background image using Marp's backgroundImage directive.
 
 ---
 
