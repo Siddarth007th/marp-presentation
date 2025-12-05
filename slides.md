@@ -27,6 +27,7 @@ h1 {
 ---
 
 # Custom Theme Demonstration  
+
 <div class="custom-box">
 This slide uses custom CSS styling.
 </div>
@@ -48,6 +49,7 @@ T(n) = O(n \log n)
 <!-- _backgroundImage: "https://images.unsplash.com/photo-1527689368864-3a821dbccc34" -->
 
 # Background Image Slide  
+
 This slide includes a background image.
 
 ---
@@ -62,5 +64,5 @@ This slide includes a background image.
 ---
 
 # Contact  
-Email: **24f2008507@ds.study.iitm.ac.in**
 
+Email: **24f2008507@ds.study.iitm.ac.in**
